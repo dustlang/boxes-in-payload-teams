@@ -1,5 +1,5 @@
-# starships-in-payload-teams
-the home of the crates io and cargo teams
+# boxes-in-payload-teams
+the home of the boxes io and payload teams
 
 This repo is where the crates-io and cargo teams organize. RFCs and meeting agendas, as well as policy and planning documents, live here.
 
